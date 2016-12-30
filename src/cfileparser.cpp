@@ -1,6 +1,6 @@
 #include <cfileparser.hpp>
 #include <stdlib.h>
-
+#include <list>
 
 using namespace std;
 
@@ -91,7 +91,7 @@ void CFileParser::open(const string &sFileName)
 	else
 	{
 		msFileName=sCompleteFileName;
-		cout << "Full path(" << sFileName ")=" << msFileName << end;
+		cout << "Full path(" << sFileName << ")=" << msFileName << endl;
 	}
 }
 
