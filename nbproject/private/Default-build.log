@@ -1,0 +1,7 @@
+/bin/sh: 1: cd: can't cd to /home/hsaturn/workspace/SaturnLib
+CMakeFiles/SaturnLib.dir/build.make:273 : la recette pour la cible « CMakeFiles/SaturnLib.dir/depend » a échouée
+make[2]: *** [CMakeFiles/SaturnLib.dir/depend] Erreur 2
+CMakeFiles/Makefile2:67 : la recette pour la cible « CMakeFiles/SaturnLib.dir/all » a échouée
+make[1]: *** [CMakeFiles/SaturnLib.dir/all] Erreur 2
+Makefile:127 : la recette pour la cible « all » a échouée
+make: *** [all] Erreur 2

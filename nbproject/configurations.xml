@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="97">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="/home/hsaturn/Projets/C++/SaturnLib" name="0">
+      <df name="CMakeFiles">
+        <df name="3.5.1">
+          <df name="CompilerIdC">
+            <in>CMakeCCompilerId.c</in>
+          </df>
+          <df name="CompilerIdCXX">
+            <in>CMakeCXXCompilerId.cpp</in>
+          </df>
+        </df>
+        <in>feature_tests.c</in>
+        <in>feature_tests.cxx</in>
+      </df>
+      <df name="src">
+        <in>cbasicoperands.cpp</in>
+        <in>cexpression.cpp</in>
+        <in>cexpressionparser.cpp</in>
+        <in>cfileparser.cpp</in>
+        <in>coperand.cpp</in>
+        <in>coperator.cpp</in>
+        <in>ctype.cpp</in>
+      </df>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>/home/hsaturn/Projets/C++/SaturnLib/Makefile</itemPath>
+      <itemPath>/home/hsaturn/Projets/C++/SaturnLib/nbproject/private/launcher.properties</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>/home/hsaturn/Projets/C++/SaturnLib</Elem>
+  </sourceRootList>
+  <projectmakefile>/home/hsaturn/Projets/C++/SaturnLib/Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>/home/hsaturn/Projets/C++/SaturnLib</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath></executablePath>
+        </makeTool>
+        <preBuild>
+          <preBuildCommandWorkingDir>.</preBuildCommandWorkingDir>
+          <preBuildCommand></preBuildCommand>
+        </preBuild>
+      </makefileType>
+      <item path="/home/hsaturn/Projets/C++/SaturnLib/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/hsaturn/Projets/C++/SaturnLib/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/hsaturn/Projets/C++/SaturnLib/CMakeFiles/feature_tests.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/hsaturn/Projets/C++/SaturnLib/CMakeFiles/feature_tests.cxx"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/home/hsaturn/Projets/C++/SaturnLib/src/cbasicoperands.cpp"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/hsaturn/Projets/C++/SaturnLib/src/cexpression.cpp"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/hsaturn/Projets/C++/SaturnLib/src/cexpressionparser.cpp"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/hsaturn/Projets/C++/SaturnLib/src/cfileparser.cpp"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/hsaturn/Projets/C++/SaturnLib/src/coperand.cpp"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/hsaturn/Projets/C++/SaturnLib/src/coperator.cpp"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/hsaturn/Projets/C++/SaturnLib/src/ctype.cpp"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
