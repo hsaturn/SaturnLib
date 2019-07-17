@@ -5,10 +5,9 @@
  *      Author: saturn
  */
 
-#ifndef CBASICOPERATORS_HPP_
-#define CBASICOPERATORS_HPP_
+#pragma once
 
-#include <coperator.hpp>
+#include "coperator.hpp"
 
 /**
  * Operator that takes two int and return their addition
@@ -17,4 +16,3 @@ class COperatorIntPlusInt : public COperator
 {
 
 };
-#endif /* CBASICOPERATORS_HPP_ */

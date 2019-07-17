@@ -5,10 +5,9 @@
  *      Author: saturn
  */
 
-#ifndef CTYPE_HPP_
-#define CTYPE_HPP_
+#pragma once
 
-#include<map>
+#include <map>
 #include <string>
 
 using namespace std;
@@ -46,4 +45,3 @@ private:
 	static map<string,const CType*>	mmapTypes;
 };
 
-#endif /* CTYPE_HPP_ */

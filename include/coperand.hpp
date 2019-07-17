@@ -5,11 +5,10 @@
  *      Author: saturn
  */
 
-#ifndef COPERAND_HPP_
-#define COPERAND_HPP_
+#pragma once
 
 #include <string>
-#include <cexprelement.hpp>
+#include "cexprelement.hpp"
 
 using namespace::std;
 
@@ -55,4 +54,3 @@ public:
 
 };
 
-#endif /* COPERAND_HPP_ */

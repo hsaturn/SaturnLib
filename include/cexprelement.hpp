@@ -5,8 +5,7 @@
  *      Author: saturn
  */
 
-#ifndef CEXPRELEMENT_HPP_
-#define CEXPRELEMENT_HPP_
+#pragma once
 
 class CType;
 
@@ -29,4 +28,3 @@ private:
 
 };
 
-#endif /* CEXPRELEMENT_HPP_ */

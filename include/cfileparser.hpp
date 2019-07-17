@@ -1,7 +1,6 @@
-#ifndef CFILEPARSER_HPP_
-#define CFILEPARSER_HPP_
+#pragma once
 
-#include <csexception.hpp>
+#include "csexception.hpp"
 #include <fstream>
 #include <string>
 #include <sstream>
@@ -301,4 +300,3 @@ class CFileParser
 
 };
 
-#endif /*CFILEPARSER_HPP_*/

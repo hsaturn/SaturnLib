@@ -5,10 +5,9 @@
  *      Author: saturn
  */
 
-#ifndef COPERATOR_HPP_
-#define COPERATOR_HPP_
+#pragma once
 
-#include <cexprelement.hpp>
+#include "cexprelement.hpp"
 
 class CExpressionParser;
 class CExpression;
@@ -53,4 +52,3 @@ private:
 	int miPrecedence;
 };
 
-#endif /* COPERATOR_HPP_ */

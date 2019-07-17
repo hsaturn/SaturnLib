@@ -5,8 +5,7 @@
  *      Author: saturn
  */
 
-#ifndef CEXPRESSION_HPP_
-#define CEXPRESSION_HPP_
+#pragma once
 
 #include <list>
 
@@ -55,4 +54,3 @@ private:
 	list<const CExprElement*>	mlstExpression;
 };
 
-#endif /* CEXPRESSION_HPP_ */

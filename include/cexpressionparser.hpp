@@ -5,8 +5,7 @@
  *      Author: saturn
  */
 
-#ifndef CEXPRESSIONPARSER_HPP_
-#define CEXPRESSIONPARSER_HPP_
+#pragma once
 
 // Very powerfull expression parser.
 // This parser is not aware of what it does parse.
@@ -138,4 +137,3 @@ private:
 	*/
 
 };
-#endif /* CEXPRESSIONPARSER_HPP_ */

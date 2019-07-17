@@ -5,10 +5,9 @@
  *      Author: saturn
  */
 
-#ifndef CBASICOPERANDS_HPP_
-#define CBASICOPERANDS_HPP_
+#pragma once
 
-#include <coperand.hpp>
+#include "coperand.hpp"
 
 // List of singleton classes defined in this file
 // COperandInt
@@ -69,4 +68,3 @@ private:
 	static COperandString* mpoInstance;
 };
 
-#endif /* CBASICOPERANDS_HPP_ */
